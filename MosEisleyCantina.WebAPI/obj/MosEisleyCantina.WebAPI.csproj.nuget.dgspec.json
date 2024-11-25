@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj": {}
+    "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj": {
+    "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj",
+        "projectUniqueName": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj",
         "projectName": "MosEisleyCantina.Data",
-        "projectPath": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj",
+        "projectPath": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj",
         "packagesPath": "C:\\Users\\Sphe Ncwane\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\obj\\",
+        "outputPath": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj": {
+    "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj",
+        "projectUniqueName": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj",
         "projectName": "MosEisleyCantina.Service",
-        "projectPath": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj",
+        "projectPath": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj",
         "packagesPath": "C:\\Users\\Sphe Ncwane\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\obj\\",
+        "outputPath": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -122,8 +122,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj": {
-                "projectPath": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj"
+              "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj": {
+                "projectPath": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj"
               }
             }
           }
@@ -162,14 +162,14 @@
         }
       }
     },
-    "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj": {
+    "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj",
+        "projectUniqueName": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj",
         "projectName": "MosEisleyCantina.WebAPI",
-        "projectPath": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj",
+        "projectPath": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj",
         "packagesPath": "C:\\Users\\Sphe Ncwane\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\obj\\",
+        "outputPath": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -190,11 +190,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj": {
-                "projectPath": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj"
+              "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj": {
+                "projectPath": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj"
               },
-              "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj": {
-                "projectPath": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj"
+              "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj": {
+                "projectPath": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj"
               }
             }
           }

@@ -1,7 +1,8 @@
-﻿using MosEisleyCantina.Data.Repositories;
-using MosEisleyCantina.Data.Repositories.Contracts;
-using MosEisleyCantina.Data.Repositories.Entities;
+﻿using MosEisleyCantina.Data.Repositories.Contracts;
 using MosEisleyCantina.Service.Services.Contract;
+using MosEisleyCantina.Service.Services.Mappers;
+using MosEisleyCantina.Service.Services.ServiceModels.Requests;
+using MosEisleyCantina.Service.Services.ServiceModels.Responses;
 
 namespace MosEisleyCantina.Service.Services
 {
@@ -14,14 +15,16 @@ namespace MosEisleyCantina.Service.Services
             _categoryRepository = categoryRepository;
         }
 
-        public async Task<IEnumerable<Category>> GetCategories()
+        public async Task<CategoriesResponse> GetCategories()
         {
-            return await _categoryRepository.GetCategories();
+            var categories = await _categoryRepository.GetCategories();
+            return categories.MapToCategoryResponse();
         }
 
-        public async Task CreateCategory(Category Category)
+        public async Task CreateCategory(CategoryRequest categoryRequest)
         {
-            await _categoryRepository.CreateCategory(Category);
+            var categoryRequestModel = categoryRequest.MapToCategoryRequest();
+            await _categoryRepository.CreateCategory(categoryRequestModel);
         }
     }
 }

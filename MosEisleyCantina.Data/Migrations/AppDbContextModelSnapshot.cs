@@ -87,6 +87,10 @@ namespace MosEisleyCantina.Data.Migrations
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime2");
 
+                    b.Property<string>("CustomerName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("MenuItemId")
                         .HasColumnType("int");
 

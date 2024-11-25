@@ -13,7 +13,7 @@ namespace MosEisleyCantina.Data.Repositories
             _context = context;
         }
 
-        public async Task<IEnumerable<Category>> GetCategories()
+        public async Task<List<Category>> GetCategories()
         {
             try
             {

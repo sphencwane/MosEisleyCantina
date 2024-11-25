@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MosEisleyCantina.Data.Repositories.Entities;
 using MosEisleyCantina.Service.Services.Contract;
+using MosEisleyCantina.Service.Services.Models.Requests;
 
 namespace MosEisleyCantina.WebAPI.Controllers
 {
@@ -29,17 +29,24 @@ namespace MosEisleyCantina.WebAPI.Controllers
             return Ok(menuItem);
         }
 
-        [HttpPost("CreateMenuItem")]
-        public async Task<IActionResult> CreateMenuItemAsync(MenuItem menuItem)
+        [HttpGet("SearchMenuItem")]
+        public async Task<IActionResult> SearchMenuItemAsync(string name)
         {
-            await _menuService.CreateMenuItem(menuItem);
+            var menuItem = await _menuService.SearchMenuItems(name);
+            return Ok(menuItem);
+        }
+
+        [HttpPost("CreateMenuItem")]
+        public async Task<IActionResult> CreateMenuItemAsync(MenuItemRequest menuItemRequest)
+        {
+            await _menuService.CreateMenuItem(menuItemRequest);
             return Ok();
         }
 
         [HttpPut("UpdateMenuItem")]
-        public async Task<IActionResult> UpdateMenuItemAsync(MenuItem menuItem)
+        public async Task<IActionResult> UpdateMenuItemAsync(MenuItemRequest menuItemRequest)
         {
-            await _menuService.UpdateMenuItem(menuItem);
+            await _menuService.UpdateMenuItem(menuItemRequest);
             return Ok();
         }
 
@@ -47,6 +54,13 @@ namespace MosEisleyCantina.WebAPI.Controllers
         public async Task<IActionResult> DeleteMenuItemAsync(int id)
         {
             await _menuService.DeleteMenuItem(id);
+            return Ok();
+        }
+
+        [HttpPost("RateMenuItem")]
+        public async Task<IActionResult> RateMenuItemAsync(RatingRequest ratingRequest)
+        {
+            await _menuService.RateMenuItem(ratingRequest);
             return Ok();
         }
     }

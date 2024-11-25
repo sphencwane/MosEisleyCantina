@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MosEisleyCantina.Data.Repositories.Entities;
 using MosEisleyCantina.Service.Services.Contract;
+using MosEisleyCantina.Service.Services.ServiceModels.Requests;
 
 namespace MosEisleyCantina.WebAPI.Controllers
 {
@@ -19,14 +19,14 @@ namespace MosEisleyCantina.WebAPI.Controllers
         [HttpGet("GetCategories")]
         public async Task<IActionResult> GetCategoriesAsync()
         {
-            await _categoryService.GetCategories();
-            return Ok();
+            var categories = await _categoryService.GetCategories();
+            return Ok(categories);
         }
           
         [HttpPost("CreateCategory")]
-        public async Task<IActionResult> CreateCategoryAsync(Category category)
+        public async Task<IActionResult> CreateCategoryAsync([FromBody] CategoryRequest categoryRequest)
         {
-            await _categoryService.CreateCategory(category);
+            await _categoryService.CreateCategory(categoryRequest);
             return Ok();
         }
     }

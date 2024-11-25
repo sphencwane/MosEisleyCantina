@@ -8,12 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ServiceModels\Responses\" />
-    <Folder Include="ServiceModels\Requests\" />
-    <Folder Include="ServiceModels\ReferenceData\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\MosEisleyCantina.Data\MosEisleyCantina.Data.csproj" />
   </ItemGroup>
 

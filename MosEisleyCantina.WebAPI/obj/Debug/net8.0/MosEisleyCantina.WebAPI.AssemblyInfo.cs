@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MosEisleyCantina.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbdf22feb4dc263de254e511ed837d09641111ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("MosEisleyCantina.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MosEisleyCantina.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

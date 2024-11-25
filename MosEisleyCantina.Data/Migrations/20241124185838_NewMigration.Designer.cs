@@ -12,8 +12,8 @@ using MosEisleyCantina.Data.Repositories;
 namespace MosEisleyCantina.Data.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241123123818_Initial")]
-    partial class Initial
+    [Migration("20241124185838_NewMigration")]
+    partial class NewMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -89,6 +89,10 @@ namespace MosEisleyCantina.Data.Migrations
 
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime2");
+
+                    b.Property<string>("CustomerName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("MenuItemId")
                         .HasColumnType("int");

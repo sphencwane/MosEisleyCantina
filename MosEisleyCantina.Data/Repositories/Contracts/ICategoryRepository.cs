@@ -4,7 +4,7 @@ namespace MosEisleyCantina.Data.Repositories.Contracts
 {
     public interface ICategoryRepository
     {
-        Task<IEnumerable<Category>> GetCategories();
+        Task<List<Category>> GetCategories();
         Task CreateCategory(Category category);
     }
 }

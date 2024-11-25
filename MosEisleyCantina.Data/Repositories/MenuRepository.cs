@@ -13,7 +13,7 @@ namespace MosEisleyCantina.Data.Repositories
             _context = context;
         }
 
-        public async Task<IEnumerable<MenuItem>> GetMenuItems()
+        public async Task<List<MenuItem>> GetMenuItems()
         {
             try
             {
@@ -35,6 +35,11 @@ namespace MosEisleyCantina.Data.Repositories
             {
                 throw new Exception(ex.Message);
             }
+        }
+
+        public async Task<List<MenuItem>> SearchMenuItems(string name)
+        {
+            return await _context.MenuItems.Where(m => m.Name.Contains(name)).ToListAsync();
         }
 
         public async Task CreateMenuItem(MenuItem menuItem)
@@ -91,9 +96,24 @@ namespace MosEisleyCantina.Data.Repositories
             }
         }
 
-        public async Task<IEnumerable<MenuItem>> SearchMenuItems(string name)
+        public async Task RateMenuItem(Rating rating)
         {
-            return await _context.MenuItems.Where(m => m.Name.Contains(name)).ToListAsync();
+            if (rating.RatingValue < 1 || rating.RatingValue > 5)
+            {
+                throw new Exception("Rating must be between 1 and 5.");
+            }
+
+            var menuItem = await _context.MenuItems.FindAsync(rating.MenuItemId);
+
+            if (menuItem == null)
+            {
+                throw new Exception("Menu item not found.");
+            }
+
+            rating.CreatedAt = DateTime.Now;
+
+            _context.Ratings.Add(rating);
+            await _context.SaveChangesAsync();
         }
     }
 }

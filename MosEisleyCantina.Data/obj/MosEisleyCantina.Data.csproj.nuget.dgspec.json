@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj": {}
+    "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj": {
+    "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj",
+        "projectUniqueName": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj",
         "projectName": "MosEisleyCantina.Data",
-        "projectPath": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj",
+        "projectPath": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj",
         "packagesPath": "C:\\Users\\Sphe Ncwane\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\obj\\",
+        "outputPath": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

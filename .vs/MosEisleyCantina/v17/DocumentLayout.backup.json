@@ -1,126 +1,134 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Dev\\TFG\\MosEisleyCantina\\",
+  "WorkspaceRootPath": "C:\\Dev\\MosEisleyCantina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.webapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|solutionrelative:moseisleycantina.webapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|solutionrelative:moseisleycantina.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|solutionrelative:moseisleycantina.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.service\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.service\\services\\contract\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\contract\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.service\\services\\contract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\contract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.data\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.data\\repositories\\contracts\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\repositories\\contracts\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.data\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.data\\repositories\\contracts\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\repositories\\contracts\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.service\\services\\contract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\contract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.data\\repositories\\entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\repositories\\entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.service\\services\\contract\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\contract\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.service\\moseisleycantina.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\moseisleycantina.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.service\\services\\mappers\\categorymappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\mappers\\categorymappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.data\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.service\\services\\mappers\\menumappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\mappers\\menumappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.service\\services\\models\\requests\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\models\\requests\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.service\\services\\models\\requests\\menuitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\models\\requests\\menuitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.service\\services\\models\\requests\\ratingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\models\\requests\\ratingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.service\\services\\models\\responses\\menuitemsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\models\\responses\\menuitemsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.service\\services\\models\\responses\\categoriesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\models\\responses\\categoriesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.service\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.webapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|solutionrelative:moseisleycantina.webapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|solutionrelative:moseisleycantina.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.service\\services\\models\\referencedata\\menuitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\models\\referencedata\\menuitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.data\\moseisleycantina.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\moseisleycantina.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.data\\migrations\\20241123123818_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\migrations\\20241123123818_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.webapi\\moseisleycantina.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|solutionrelative:moseisleycantina.webapi\\moseisleycantina.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Migrations\\20241123123818_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MosEisleyCantina.Data\\Migrations\\20241123123818_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.data\\repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\repositories\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|solutionrelative:moseisleycantina.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.data\\moseisleycantina.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\moseisleycantina.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.service\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.service\\services\\contract\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\contract\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.data\\repositories\\contracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\repositories\\contracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.data\\repositories\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\repositories\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.data\\repositories\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.data\\repositories\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\repositories\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|solutionrelative:moseisleycantina.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.data\\repositories\\contracts\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\repositories\\contracts\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.webapi\\moseisleycantina.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.data\\repositories\\entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\repositories\\entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.data\\repositories\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\repositories\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.service\\services\\models\\referencedata\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\services\\models\\referencedata\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.data\\repositories\\contracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\repositories\\contracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.service\\moseisleycantina.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25381FAE-51C6-474B-B654-177C9084FCC2}|MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj|solutionrelative:moseisleycantina.service\\moseisleycantina.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Migrations\\20241124185838_NewMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MosEisleyCantina.Data\\Migrations\\20241124185838_NewMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.data\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65530ED3-4554-4C3E-8D15-2FD99DFE2A92}|MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj|solutionrelative:moseisleycantina.data\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.webapi\\moseisleycantina.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|solutionrelative:moseisleycantina.webapi\\moseisleycantina.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|solutionrelative:moseisleycantina.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|c:\\dev\\moseisleycantina\\moseisleycantina.webapi\\moseisleycantina.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|solutionrelative:moseisleycantina.webapi\\moseisleycantina.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|c:\\dev\\tfg\\moseisleycantina\\moseisleycantina.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{269B02F9-E123-4FC5-BA69-1F871534BD9E}|MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj|solutionrelative:moseisleycantina.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,301 +138,223 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MenuController.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\Controllers\\MenuController.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.WebAPI\\Controllers\\MenuController.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\Controllers\\MenuController.cs",
-              "RelativeToolTip": "MosEisleyCantina.WebAPI\\Controllers\\MenuController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwDMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "CategoryRequest.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Models\\Requests\\CategoryRequest.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\Models\\Requests\\CategoryRequest.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Models\\Requests\\CategoryRequest.cs",
+              "RelativeToolTip": "MosEisleyCantina.Service\\Services\\Models\\Requests\\CategoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T13:18:15.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MenuRepository.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\MenuRepository.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\MenuRepository.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\MenuRepository.cs",
-              "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\MenuRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:17:13.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Entities\\MenuItem.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\Entities\\MenuItem.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Entities\\MenuItem.cs",
-              "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\Entities\\MenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:27:32.739Z",
+              "WhenOpened": "2024-11-24T19:22:36.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "MenuMappers.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Mappers\\MenuMappers.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\Mappers\\MenuMappers.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Mappers\\MenuMappers.cs",
+              "RelativeToolTip": "MosEisleyCantina.Service\\Services\\Mappers\\MenuMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:16:07.327Z",
+              "WhenOpened": "2024-11-25T16:39:04.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IMenuRepository.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Contracts\\IMenuRepository.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\Contracts\\IMenuRepository.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Contracts\\IMenuRepository.cs",
-              "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\Contracts\\IMenuRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CategoryMappers.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Mappers\\CategoryMappers.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\Mappers\\CategoryMappers.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Mappers\\CategoryMappers.cs",
+              "RelativeToolTip": "MosEisleyCantina.Service\\Services\\Mappers\\CategoryMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:22:25.162Z",
+              "WhenOpened": "2024-11-25T16:03:53.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuService.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\MenuService.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\MenuService.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\MenuService.cs",
-              "RelativeToolTip": "MosEisleyCantina.Service\\Services\\MenuService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T08:17:25.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IMenuService.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Contract\\IMenuService.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Contract\\IMenuService.cs",
               "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\Contract\\IMenuService.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Contract\\IMenuService.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Contract\\IMenuService.cs",
               "RelativeToolTip": "MosEisleyCantina.Service\\Services\\Contract\\IMenuService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T08:18:30.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IRatingRepository.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Contracts\\IRatingRepository.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\Contracts\\IRatingRepository.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Contracts\\IRatingRepository.cs",
-              "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\Contracts\\IRatingRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAABIAAADAZWZmZuYZwB8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:23:11.848Z",
+              "WhenOpened": "2024-11-23T11:16:07.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.WebAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MosEisleyCantina.WebAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAA0AAABA/v////8PwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:04:43.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuItemRequest.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Models\\Requests\\MenuItemRequest.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\Models\\Requests\\MenuItemRequest.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Models\\Requests\\MenuItemRequest.cs",
+              "RelativeToolTip": "MosEisleyCantina.Service\\Services\\Models\\Requests\\MenuItemRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:08:09.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RatingRequest.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Models\\Requests\\RatingRequest.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\Models\\Requests\\RatingRequest.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Models\\Requests\\RatingRequest.cs",
+              "RelativeToolTip": "MosEisleyCantina.Service\\Services\\Models\\Requests\\RatingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:20:34.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Contract\\ICategoryService.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Contract\\ICategoryService.cs",
               "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\Contract\\ICategoryService.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Contract\\ICategoryService.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Contract\\ICategoryService.cs",
               "RelativeToolTip": "MosEisleyCantina.Service\\Services\\Contract\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T11:26:51.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "MenuRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\MenuRepository.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\MenuRepository.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\MenuRepository.cs",
+              "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\MenuRepository.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwHAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:17:13.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuItemsResponse.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Models\\Responses\\MenuItemsResponse.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\Models\\Responses\\MenuItemsResponse.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Models\\Responses\\MenuItemsResponse.cs",
+              "RelativeToolTip": "MosEisleyCantina.Service\\Services\\Models\\Responses\\MenuItemsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:54:40.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriesResponse.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Models\\Responses\\CategoriesResponse.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\Models\\Responses\\CategoriesResponse.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Models\\Responses\\CategoriesResponse.cs",
+              "RelativeToolTip": "MosEisleyCantina.Service\\Services\\Models\\Responses\\CategoriesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:06:00.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\MenuService.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\MenuService.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\MenuService.cs",
+              "RelativeToolTip": "MosEisleyCantina.Service\\Services\\MenuService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:17:25.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.WebAPI\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "MosEisleyCantina.WebAPI\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:18:15.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "MosEisleyCantina.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\Program.cs",
               "RelativeToolTip": "MosEisleyCantina.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T07:47:00.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\AppDbContext.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\AppDbContext.cs",
-              "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:10:15.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MosEisleyCantina.Service",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj",
-              "RelativeToolTip": "MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-23T08:16:28.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Program.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Program.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Program.cs",
-              "RelativeToolTip": "MosEisleyCantina.Data\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T12:35:30.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MosEisleyCantina.Data",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj",
-              "RelativeToolTip": "MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-23T12:31:49.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "MosEisleyCantina.Data\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T12:54:54.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "20241123123818_Initial.Designer.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Migrations\\20241123123818_Initial.Designer.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Migrations\\20241123123818_Initial.Designer.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Migrations\\20241123123818_Initial.Designer.cs",
-              "RelativeToolTip": "MosEisleyCantina.Data\\Migrations\\20241123123818_Initial.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "MenuItemModel.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Models\\ReferenceData\\MenuItemModel.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\Models\\ReferenceData\\MenuItemModel.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Models\\ReferenceData\\MenuItemModel.cs",
+              "RelativeToolTip": "MosEisleyCantina.Service\\Services\\Models\\ReferenceData\\MenuItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T12:44:23.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MosEisleyCantina.WebAPI",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj",
-              "RelativeDocumentMoniker": "MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj",
-              "RelativeToolTip": "MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-23T11:47:38.941Z",
+              "WhenOpened": "2024-11-25T16:55:13.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "20241123123818_Initial.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Migrations\\20241123123818_Initial.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Migrations\\20241123123818_Initial.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Migrations\\20241123123818_Initial.cs",
-              "RelativeToolTip": "MosEisleyCantina.Data\\Migrations\\20241123123818_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T12:38:20.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "MosEisleyCantina.WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\appsettings.json",
-              "RelativeToolTip": "MosEisleyCantina.WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-23T11:33:53.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\CategoryService.cs",
-              "RelativeToolTip": "MosEisleyCantina.Service\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:24:58.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "RatingRepository.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\RatingRepository.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\RatingRepository.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\RatingRepository.cs",
-              "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\RatingRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:17:48.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "RatingService.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\RatingService.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\RatingService.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\RatingService.cs",
-              "RelativeToolTip": "MosEisleyCantina.Service\\Services\\RatingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:25:12.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\Program.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Program.cs",
               "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Program.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\Program.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Program.cs",
               "RelativeToolTip": "MosEisleyCantina.Service\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -433,37 +363,89 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\CategoryService.cs",
+              "RelativeToolTip": "MosEisleyCantina.Service\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:24:58.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Program.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Program.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Program.cs",
+              "RelativeToolTip": "MosEisleyCantina.Data\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:29:47.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MosEisleyCantina.Data.csproj",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj",
+              "RelativeToolTip": "MosEisleyCantina.Data\\MosEisleyCantina.Data.csproj",
+              "ViewState": "AgIAAAQAAABAZmZmZmYmwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T12:31:49.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Entities\\Rating.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\Entities\\Rating.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Entities\\Rating.cs",
+              "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\Entities\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:51:34.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMenuRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Contracts\\IMenuRepository.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\Contracts\\IMenuRepository.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Contracts\\IMenuRepository.cs",
+              "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\Contracts\\IMenuRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:22:25.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Entities\\MenuItem.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\Entities\\MenuItem.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Entities\\MenuItem.cs",
+              "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\Entities\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:27:32.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "IRatingService.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Contract\\IRatingService.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\Contract\\IRatingService.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Contract\\IRatingService.cs",
-              "RelativeToolTip": "MosEisleyCantina.Service\\Services\\Contract\\IRatingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:26:02.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Contracts\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\Contracts\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Contracts\\ICategoryRepository.cs",
-              "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\Contracts\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:21:44.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Entities\\Category.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\Entities\\Category.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Entities\\Category.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Entities\\Category.cs",
               "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -472,55 +454,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Rating.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Entities\\Rating.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\Entities\\Rating.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Entities\\Rating.cs",
-              "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\Entities\\Rating.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Models\\ReferenceData\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\Services\\Models\\ReferenceData\\CategoryModel.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\Services\\Models\\ReferenceData\\CategoryModel.cs",
+              "RelativeToolTip": "MosEisleyCantina.Service\\Services\\Models\\ReferenceData\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T10:51:34.056Z",
+              "WhenOpened": "2024-11-25T16:27:46.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Contracts\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\Contracts\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\Contracts\\ICategoryRepository.cs",
+              "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\Contracts\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:21:44.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MosEisleyCantina.Service.csproj",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj",
+              "RelativeToolTip": "MosEisleyCantina.Service\\MosEisleyCantina.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T08:16:28.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.WebAPI\\WeatherForecast.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\WeatherForecast.cs",
-              "RelativeToolTip": "MosEisleyCantina.WebAPI\\WeatherForecast.cs",
+              "Title": "20241124185838_NewMigration.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Migrations\\20241124185838_NewMigration.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Migrations\\20241124185838_NewMigration.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Migrations\\20241124185838_NewMigration.cs",
+              "RelativeToolTip": "MosEisleyCantina.Data\\Migrations\\20241124185838_NewMigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T08:00:14.728Z",
+              "WhenOpened": "2024-11-24T18:58:44.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "MosEisleyCantina.WebAPI.http",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.http",
-              "RelativeDocumentMoniker": "MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.http",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.http",
-              "RelativeToolTip": "MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-11-23T07:51:15.944Z",
-              "EditorCaption": ""
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MosEisleyCantina.Data\\Repositories\\AppDbContext.cs",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.Data\\Repositories\\AppDbContext.cs",
+              "RelativeToolTip": "MosEisleyCantina.Data\\Repositories\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:10:15.026Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "MosEisleyCantina.WebAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Dev\\TFG\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "MosEisleyCantina.WebAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T07:45:45.194Z",
+              "Title": "MosEisleyCantina.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj",
+              "RelativeDocumentMoniker": "MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj",
+              "RelativeToolTip": "MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T11:47:38.941Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MosEisleyCantina.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\appsettings.json",
+              "RelativeToolTip": "MosEisleyCantina.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T11:33:53.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MosEisleyCantina.WebAPI.http",
+              "DocumentMoniker": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.http",
+              "RelativeDocumentMoniker": "MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.http",
+              "ToolTip": "C:\\Dev\\MosEisleyCantina\\MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.http",
+              "RelativeToolTip": "MosEisleyCantina.WebAPI\\MosEisleyCantina.WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-23T07:51:15.944Z"
             }
           ]
         }
